@@ -88,3 +88,4 @@ Fosdem
 Social Panda
 Wayland
 zodbot
+cookies
