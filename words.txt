@@ -43,7 +43,7 @@ Neuro
 Special Interest Groups
 Anaconda
 Heisenbug
-Schrödinger Cat
+Schroinger Cat
 Spherical Cow
 Verne
 Lovelock
