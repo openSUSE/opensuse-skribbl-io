@@ -14,6 +14,7 @@ It supports using a custom dictionary, so this is one I threw together for Fedor
 - Words can be no longer than 30 characters
 - Words can have spaces
 - All words should be seperated by commas
+- Words should be in alphabetical order.
 
 ### Example 
 
