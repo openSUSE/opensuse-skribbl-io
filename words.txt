@@ -86,3 +86,4 @@ Akademy
 Firefox
 Fosdem
 Social Panda
+Wayland
