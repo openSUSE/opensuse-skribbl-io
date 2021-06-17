@@ -9,7 +9,7 @@ It supports using a custom dictionary, so this is one I threw together for Fedor
 ## Rules/guidlines
 
 - Words and concepts should not be culture specific
-- Fedora, Linux, and Opensource related words are encouraged
+- Fedora, Linux, and Open source related words are encouraged
 - Words should be family freindly 
 - Words can be no longer than 30 characters
 - Words can have spaces
@@ -18,3 +18,8 @@ It supports using a custom dictionary, so this is one I threw together for Fedor
 ### Example 
 
 > Word1, Word 2, Word three, word
+
+## Using
+
+When starting a private game, there is a box to input custom words. 
+Copy and paste words.txt into the box. Selecting to only use custom words is up you.
