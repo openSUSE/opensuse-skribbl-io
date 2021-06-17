@@ -12,6 +12,7 @@ kde plasma
 coreos
 silverblue
 Red hat
+openshift
 pagure
 fedora hat
 badges
@@ -32,3 +33,35 @@ council
 mindshare
 btrfs
 Tux
+Fedora kinoite
+arm
+irc
+python
+fedora Spins
+fedora labs
+NeuroFedora
+Special Interest Groups
+Anaconda
+Heisenbug
+Schrödinger Cat
+Spherical Cow
+Verne
+Lovelock
+Laughlin
+Goddard
+Constantine
+Leonidas
+Cambridge
+Sulphur
+Werewolf
+Moonshine
+Zod
+Bordeaux
+Stentz
+Heidelberg
+Tettnang
+Yarrow
+docker
+podman
+chroot
+systemd
