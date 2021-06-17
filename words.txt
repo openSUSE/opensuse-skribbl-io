@@ -26,7 +26,6 @@ lxde
 soas
 magazine
 communityblog
-badger
 panda
 fesco
 council
