@@ -1,1 +1,34 @@
-action bcotton, mattdm, beefy miracle, fedora, riecatnor, nest, workstation, gnome, server, iot, kde, kde plasma, coreos, silverblue, Red hat, pagure, fedora hat, badges, i3wm, lxqt, xfce, fedora podcast, mate, cinnamon, lxde, soas, magazine, communityblog, badger, panda, fesco, council, mindshare, btrfs
+action bcotton
+mattdm
+beefy miracle
+fedora
+riecatnor
+nest
+workstation
+gnome
+server
+iot
+kde
+kde plasma
+coreos
+silverblue
+Red hat
+pagure
+fedora hat
+badges
+i3wm
+lxqt
+xfce
+fedora podcast
+mate
+cinnamon
+lxde
+soas
+magazine
+communityblog
+badger
+panda
+fesco
+council
+mindshare
+btrfs
