@@ -66,3 +66,17 @@ podman
 chroot
 systemd
 pipewire
+CommOps
+Release Engineering
+Social Hour
+Advocate
+LibreOffice
+nano
+vim
+ansible
+badger
+hyperkitty
+Freedom
+Friends
+Features
+First
