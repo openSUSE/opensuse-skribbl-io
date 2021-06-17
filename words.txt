@@ -87,3 +87,4 @@ Firefox
 Fosdem
 Social Panda
 Wayland
+zodbot
