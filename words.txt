@@ -1,64 +1,39 @@
+action bcotton
 Advocate
 Akademy
 Anaconda
+ansible
+arm
+badger
+badges
+beefy miracle
 Bordeaux
+btrfs
 Cambridge
+chroot
+cinnamon
 CommOps
+communityblog
 Constantine
+cookies
+coreos
+council
+podman
 Features
+fedora
+fedora hat
+fedora podcast
+fesco
 Firefox
 First
 Flock
 Fosdem
 Freedom
 Friends
+gnome
 Goddard
 Heidelberg
 Heisenbug
-Laughlin
-Leonidas
-LibreOffice
-Lovelock
-Moonshine
-Neuro
-Pixel Ninja
-Red hat
-Release Engineering
-Schroinger Cat
-Social Hour
-Social Panda
-Special Interest Groups
-Spherical Cow
-Spins
-Stentz
-Sulphur
-Telegraphist
-Tettnang
-Tux
-Verne
-Wayland
-Werewolf
-Yarrow
-Zod
-action bcotton
-ansible
-arm
-badger
-badges
-beefy miracle
-btrfs
-chroot
-cinnamon
-communityblog
-cookies
-coreos
-council
-docker
-fedora
-fedora hat
-fedora podcast
-fesco
-gnome
 hyperkitty
 i3wm
 iot
@@ -66,26 +41,51 @@ irc
 kde plasma
 kinoite
 labs
+Laughlin
+Leonidas
+LibreOffice
+Lovelock
 lxde
 lxqt
 magazine
 mate
 mattdm
 mindshare
+Moonshine
 nano
 nest
+Neuro
 openshift
 pagure
 panda
 pipewire
+Pixel Ninja
 podman
 python
+Red hat
+Release Engineering
 riecatnor
+Schroinger Cat
 server
 silverblue
 soas
+Social Hour
+Social Panda
+Special Interest Groups
+Spherical Cow
+Spins
+Stentz
+Sulphur
 systemd
+Telegraphist
+Tettnang
+Tux
+Verne
 vim
+Wayland
+Werewolf
 workstation
 xfce
+Yarrow
+Zod
 zodbot
