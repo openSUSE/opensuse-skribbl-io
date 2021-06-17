@@ -65,3 +65,4 @@ docker
 podman
 chroot
 systemd
+pipewire
