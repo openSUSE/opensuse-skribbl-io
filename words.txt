@@ -1,91 +1,91 @@
-action bcotton
-mattdm
-beefy miracle
-fedora
-riecatnor
-nest
-workstation
-gnome
-server
-iot
-kde plasma
-coreos
-silverblue
-Red hat
-openshift
-pagure
-fedora hat
-badges
-i3wm
-lxqt
-xfce
-fedora podcast
-mate
-cinnamon
-lxde
-soas
-magazine
-communityblog
-panda
-fesco
-council
-mindshare
-btrfs
-Tux
-kinoite
-arm
-irc
-python
-Spins
-labs
-Neuro
-Special Interest Groups
-Anaconda
-Heisenbug
-Schroinger Cat
-Spherical Cow
-Verne
-Lovelock
-Laughlin
-Goddard
-Constantine
-Leonidas
-Cambridge
-Sulphur
-Werewolf
-Moonshine
-Zod
-Bordeaux
-Stentz
-Heidelberg
-Tettnang
-Yarrow
-docker
-podman
-chroot
-systemd
-pipewire
-CommOps
-Release Engineering
-Social Hour
 Advocate
-LibreOffice
-nano
-vim
-ansible
-badger
-hyperkitty
+Akademy
+Anaconda
+Bordeaux
+Cambridge
+CommOps
+Constantine
+Features
+Firefox
+First
+Flock
+Fosdem
 Freedom
 Friends
-Features
-First
+Goddard
+Heidelberg
+Heisenbug
+Laughlin
+Leonidas
+LibreOffice
+Lovelock
+Moonshine
+Neuro
 Pixel Ninja
-Telegraphist
-Flock
-Akademy
-Firefox
-Fosdem
+Red hat
+Release Engineering
+Schroinger Cat
+Social Hour
 Social Panda
+Special Interest Groups
+Spherical Cow
+Spins
+Stentz
+Sulphur
+Telegraphist
+Tettnang
+Tux
+Verne
 Wayland
-zodbot
+Werewolf
+Yarrow
+Zod
+action bcotton
+ansible
+arm
+badger
+badges
+beefy miracle
+btrfs
+chroot
+cinnamon
+communityblog
 cookies
+coreos
+council
+docker
+fedora
+fedora hat
+fedora podcast
+fesco
+gnome
+hyperkitty
+i3wm
+iot
+irc
+kde plasma
+kinoite
+labs
+lxde
+lxqt
+magazine
+mate
+mattdm
+mindshare
+nano
+nest
+openshift
+pagure
+panda
+pipewire
+podman
+python
+riecatnor
+server
+silverblue
+soas
+systemd
+vim
+workstation
+xfce
+zodbot
