@@ -33,13 +33,13 @@ council
 mindshare
 btrfs
 Tux
-Fedora kinoite
+kinoite
 arm
 irc
 python
-fedora Spins
-fedora labs
-NeuroFedora
+Spins
+labs
+Neuro
 Special Interest Groups
 Anaconda
 Heisenbug
