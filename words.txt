@@ -8,7 +8,6 @@ workstation
 gnome
 server
 iot
-kde
 kde plasma
 coreos
 silverblue
