@@ -17,10 +17,13 @@ It supports using a custom dictionary, so this is one I threw together for Fedor
 
 ### Example 
 
-> Word1, Word 2, Word three, word
+> Word1
+> Word 2
+> Word three
+> word
 
 ## Using
 
 When starting a private game, there is a box to input custom words. 
-Copy and paste words.txt into the box. 
+Run the command `make` in this directory to convert words.txt into a one-line output you can paste into the box.
 Selecting to only use custom words is up you, however, due to the massive amount of words in english, it's uncommon for you to get a custom word, without turning on the option to use only custom words.
