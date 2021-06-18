@@ -1,3 +1,6 @@
+# Please add words in alphabetical order for human-friendliness
+# `make` will remove duplicates (case insensitive) if you ignore this.
+# Also: lines that begin with '#' will be removed from the output.
 action bcotton
 Advocate
 Akademy
