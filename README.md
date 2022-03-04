@@ -27,3 +27,8 @@ It supports using a custom dictionary, so this is one I threw together for Fedor
 When starting a private game, there is a box to input custom words. 
 Run the command `make` in this directory to convert words.txt into a one-line output you can paste into the box.
 Selecting to only use custom words is up you, however, due to the massive amount of words in english, it's uncommon for you to get a custom word, without turning on the option to use only custom words.
+
+## Credits
+
+Thank's for Onuralp and Fedora for making this happen!
+Forked from https://pagure.io/fedora-skribbl-io
