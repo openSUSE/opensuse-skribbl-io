@@ -1,4 +1,4 @@
-# Fedora Social hour Skribbl.io
+# openSUSE Social hour Skribbl.io
 
 https://skribbl.io is:
 
@@ -9,7 +9,7 @@ It supports using a custom dictionary, so this is one I threw together for Fedor
 ## Rules/guidlines
 
 - Words and concepts should not be culture specific
-- Fedora, Linux, and Open source related words are encouraged
+- openSUSE, Linux, and Open source related words are encouraged
 - Words should be family freindly 
 - Words can be no longer than 30 characters
 - Words can have spaces

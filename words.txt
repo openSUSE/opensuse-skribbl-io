@@ -1,94 +1,60 @@
 # Please add words in alphabetical order for human-friendliness
 # `make` will remove duplicates (case insensitive) if you ignore this.
 # Also: lines that begin with '#' will be removed from the output.
-action bcotton
-Advocate
 Akademy
-Anaconda
-ansible
 arm
-badger
-badges
-beefy miracle
-Bordeaux
+Backports
+botmaster
 btrfs
-Cambridge
-chroot
 cinnamon
-CommOps
-communityblog
-Constantine
+code-o-o
 cookies
-coreos
 council
-podman
-Features
-fedora
-fedora hat
-fedora podcast
-fesco
 Firefox
-First
-Flock
 Fosdem
 Freedom
 Friends
+geeko
 gnome
-Goddard
-Heidelberg
-Heisenbug
 hyperkitty
-i3wm
+chroot
+icewm
 iot
 irc
+i3wm
 kde plasma
 kinoite
 labs
-Laughlin
-Leonidas
+Leap Micro
 LibreOffice
-Lovelock
 lxde
 lxqt
-magazine
 mate
 mattdm
+MicroOS
+Michael's openSUSE podcast
 mindshare
-Moonshine
 nano
 nest
-Neuro
-openshift
+news-o-o
+open source magazine
+openSUSE
+openSUSE Board
+openSUSE Conference
 pagure
 panda
 pipewire
-Pixel Ninja
 podman
 python
-Red hat
+Rancher
 Release Engineering
-riecatnor
-Schroinger Cat
+salt
 server
-silverblue
-Sugar on a Stick
-Social Hour
-Social Panda
-Special Interest Groups
-Spherical Cow
-Spins
-Stentz
-Sulphur
+SUSE
 systemd
-Telegraphist
-Tettnang
 Tux
-Verne
 vim
 Wayland
-Werewolf
-workstation
+Workstation Extension
 xfce
-Yarrow
-Zod
-zodbot
+YaST
