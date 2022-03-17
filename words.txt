@@ -58,3 +58,4 @@ Wayland
 Workstation Extension
 xfce
 YaST
+/bar
